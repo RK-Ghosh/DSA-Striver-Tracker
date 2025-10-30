@@ -1,0 +1,6 @@
+Progress Upload Checklist
+- [ ] Solve problems in Google Sheet (public)
+- [ ] Export Google Sheet → Excel
+- [ ] Commit Excel to /Progress_Tracker/Striver_A2Z_6Week.xlsx on GitHub master
+- [ ] Add reflection to reflection_template.md
+- [ ] Push changes
