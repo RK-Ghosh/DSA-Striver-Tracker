@@ -29,7 +29,7 @@ Daily reflections are stored in `Progress_Tracker/reflection_template.md`.
 ---
 
 ***How to use this repo***
-1. Open the Excel (`Progress_Tracker/Striver_A2Z_6Week_with_links.xlsx`) and mark problems as you solve them.
+1. Open the Excel (`Progress_Tracker/Striver_A2Z_6Week.xlsx`) and mark problems as you solve them.
 2. Update the "Status" column to `Done` and fill "Date_Completed".
 3. Copy a short reflection into `reflection_template.md` following the template.
 4. Weekly: download the updated Excel and push to GitHub `master` branch under `/Progress_Tracker/`.
