@@ -19,7 +19,7 @@ Tracking a 6-week journey through the **Striver A2Z DSA Sheet** — 150 problems
 ### 🔗 Useful Links
 - 💡 **LeetCode Profile:** https://leetcode.com/u/RK-Ghosh/
 - 💾 **Google Sheet Tracker:** (to be published)
-- 🧾 **Excel Version:** Progress_Tracker/Striver_A2Z_6Week_with_links.xlsx
+- 🧾 **Excel Version:** Progress_Tracker/Striver_A2Z_6Week.xlsx
 
 ---
 
